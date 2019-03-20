@@ -1,0 +1,3 @@
+# Installation
+
+Just run `make`
